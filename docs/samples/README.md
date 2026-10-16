@@ -11,7 +11,7 @@ These files provide concrete examples of the raw judicial documents processed by
 
 ## Public Data Source & Verification
 
-These documents are public records from the Superior Court of Justice (STJ). The original proceedings and their full procedural history can be consulted publicly on the official procedural search portal:
+These documents are public records from the Superior Court of Justice. The original proceedings and their full procedural history can be consulted publicly on the official procedural search portal:
 
 🔗 **[Procedural Search Portal](https://processo.stj.jus.br/processo/pesquisa/?aplicacao=processos.ea)**
 
