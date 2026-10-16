@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "A Context-Preserving Large Language Model Framework for Legal Decision Prediction in Brazilian Habeas Corpus Proceedings"
+type: software
+authors: 
+  - name: "Anonymous"
+license: "TBD"
+version: "1.0.0"
+date-released: "2026-10-15"
